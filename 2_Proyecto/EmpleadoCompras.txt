@@ -1,0 +1,10 @@
+C1.user
+123
+Maria Hernandez
+compras
+1000
+C2.user
+123
+Adriana Hernandez
+compras
+2000

@@ -1,0 +1,10 @@
+V1.user
+123
+Maria Hernandez
+ventas
+1000
+V2.user
+123
+Adriana Hernandez
+ventas
+2000
