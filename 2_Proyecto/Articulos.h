@@ -4,5 +4,6 @@
 	void accionArticulos();
 	void AgregarArticulos();
 	void EliminarArticulos();
+	void muestraInventario(char bufferDepartamento[100]);
 
 #endif
